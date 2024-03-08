@@ -1,0 +1,22 @@
+export default [
+  "i-uil:google",
+  "i-uil:facebook",
+  "i-uil:book",
+  "i-uil:user",
+  "i-uil:users-alt",
+  "i-uil:money-bill",
+  "i-uil:money-withdraw",
+  "i-uil:eye",
+  "i-uil:eye-slash",
+  "i-mdi:home",
+  "i-material-symbols:dashboard",
+  "i-mdi:weather-night",
+  "i-mdi:weather-sunny",
+  "i-uil:angle-down",
+  "i-mdi:close",
+  "i-uil:clock",
+  "i-uil:books",
+  "i-uil:fire",
+  "i-mdi:logout",
+  "i-uil:bell"
+]
